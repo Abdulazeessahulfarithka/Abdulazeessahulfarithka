@@ -17,7 +17,7 @@
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/abdul-azeez-ka-949927231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+<a href= "https://www.linkedin.com/in/abdul-azeez-949927231/" target="blank"><img align="center"  alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 
 
 
